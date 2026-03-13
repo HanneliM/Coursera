@@ -13,3 +13,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/HanneliM/Coursera
+BugReports: https://github.com/HanneliM/Coursera/issues

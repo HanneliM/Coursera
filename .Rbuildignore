@@ -1,2 +1,5 @@
 ^Coursera\.Rproj$
 ^\.Rproj\.user$
+^\.travis\.yml$
+^LICENSE\.md$
+^US_crash\.R$
